@@ -2,3 +2,6 @@ i am ok
 do you know that 
 yes you know 
 go go go 
+Add a new line
+
+add a other line
